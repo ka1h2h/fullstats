@@ -1,0 +1,167 @@
+.container-registration {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.register-image {
+    display: grid;
+    max-width: 250px;
+    width: 100%;
+    margin: 5px;
+    border: 0px solid;
+    box-shadow: 0px 16px 32px -4px rgba(145, 158, 171, 0.12);
+    border-radius: 16px;
+}
+
+
+
+.img-register {
+    max-width: 250px;
+    width: 100%;
+    max-height: 250px;
+}
+
+.logoMobile {
+    display: none;
+}
+
+.registrationDesktop {
+    position: absolute;
+    right: 50px;
+    top: 15px;
+    font-size: 14px;
+}
+
+.registrationDesktop a {
+    text-decoration: none;
+}
+
+.registrationMobile {
+  display: none;
+}
+
+form {
+    padding: 40px;
+    color: #333333;
+    max-width: 400px;
+    width: 100%;
+    margin: auto;
+}
+
+.register-form {
+    font-size: 22px;
+    font-weight: 700;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.data {
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+
+
+input {
+    outline: none;
+}
+
+div input  {
+    box-sizing: border-box;
+    border: solid 0.5px #dee2e6;
+    border-radius: 8px;
+    padding: 12px;
+    width: 47%;
+    margin-bottom: 15px;
+}
+
+.name-input {
+    margin-right: 22px;
+}
+
+.register-button {
+    background: #3258FB;
+    box-shadow: 0px 8px 16px rgba(50, 88, 251, 0.24);
+    border-radius: 8px;
+    width: 100%;
+    padding: 12px;
+    color: #FFFFFF;
+    border: none;
+    margin-bottom: 15px;
+}
+
+.registrationDesktopDown {
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: #919EAB;
+    margin-bottom: 15px;
+}
+
+.registrationDesktopDown a {
+    font-weight: 400;
+    font-size: 14px;
+    text-decoration: underline;
+}
+
+.loginMobile {
+    display: none;
+}
+
+
+@media (max-width: 700px) { 
+    .register-image {
+        display: none;
+    }
+
+    .registrationMobile {
+        display: block;
+        font-size: 14px;
+        text-align: center;
+        width: 100%;
+        align-items: center;
+        padding-top: 20px;
+    }
+
+    div input  {
+        display: flex;
+        box-sizing: border-box;
+        border: solid 0.5px #dee2e6;
+        border-radius: 8px;
+        padding: 12px;
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    
+    .nameInpt {
+        margin-right: 21px;
+    }
+
+    .registrationMobile a {
+        margin-left: 10px;
+    }
+
+    .logoMobile {
+        display: flex;
+        max-width: 30px;
+        max-height: 30px;
+        margin-bottom: 35px;
+     
+    }
+
+    .registrationDesktop {
+        display: none;
+    }
+
+    .loginMobile {
+        display: block;
+        text-align: center;
+        
+    }
+
+   
+}

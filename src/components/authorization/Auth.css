@@ -1,0 +1,131 @@
+.container-login {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.login-image {
+    display: grid;
+    max-width: 250px;
+    width: 100%;
+    margin: 5px;
+    border: 0px solid;
+    box-shadow: 0px 16px 32px -4px rgba(145, 158, 171, 0.12);
+    border-radius: 16px;
+}
+
+.img-login {
+    max-width: 250px;
+    width: 100%;
+    max-height: 250px;
+}
+
+
+.authorizationDesktop {
+    position: absolute;
+    right: 50px;
+    top: 15px;
+    font-size: 14px;
+}
+
+.authorizationDesktop a {
+    text-decoration: none;
+}
+
+.authorizationMobile {
+  display: none;
+}
+
+form {
+    padding: 40px;
+    color: #333333;
+    max-width: 400px;
+    margin: auto;
+}
+
+.loginForm {
+    font-size: 22px;
+    font-weight: 700;
+    font-style: bold;
+    margin-bottom: 20px;
+}
+
+.data {
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+.guide {
+    font-size: 11px;
+    background: rgba(50, 88, 251, 0.2);
+    border-radius: 8px;
+    margin: 15px 0 15px;
+    padding: 15px;
+}
+
+
+.remember-me {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 14px;
+    white-space: nowrap;
+}
+
+label {
+    display: flex;
+    margin-bottom: 15px;
+    width: 150px;
+}
+
+a {
+    color: #3258FB;
+    font-weight: 700;
+    cursor: pointer;
+    text-decoration: none;
+    
+}
+
+.login-button {
+    background: #3258FB;
+    box-shadow: 0px 8px 16px rgba(50, 88, 251, 0.24);
+    border-radius: 8px;
+    width: 100%;
+    padding: 12px;
+    color: #FFFFFF;
+    border: none;
+}
+
+@media (max-width: 700px) { 
+    .login-image {
+        display: none;
+    }
+
+    .registrationMobile {
+        display: block;
+        font-size: 14px;
+        text-align: center;
+        width: 100%;
+        align-items: center;
+        padding-top: 20px;
+    }
+
+    .registrationMobile a {
+        margin-left: 10px;
+    }
+
+    .authorizationDesktop {
+        display: none;
+    }
+
+    .authorizationMobile {
+        display: block;
+        font-size: 14px;
+        text-align: center;
+        width: 100%;
+        align-items: center;
+        padding-top: 20px;
+      } 
+}

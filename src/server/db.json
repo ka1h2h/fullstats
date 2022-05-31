@@ -1,0 +1,129 @@
+{
+  "users": [
+    {
+      "email": "1234@mail.ru",
+      "password": "$2a$10$OF6/CwWXlvfT9J4RWZsI.eoFmF5L.mAAj/EupTZ5BZCu5UCqeXuVW",
+      "id": 1
+    },
+    {
+      "email": "222@mail.ru",
+      "password": "$2a$10$vPn0lqn4pKfgnCh10kQHnOW2Wu9j/VL14V.qZDU3dtytRKt2ivSvm",
+      "id": 2
+    },
+    {
+      "email": "rrr@mail.ru",
+      "password": "$2a$10$EOmWRZUWKh7RVR2PNNuZheAgaSgPFshaRJsSL4WdLPIBBwwbJmTvm",
+      "id": 3
+    },
+    {
+      "email": "1212334@mail.ru",
+      "password": "$2a$10$Lk.LwkBgHyEBb.zvP9lSCOR0aIkbIIWXjwl5WjgwcDRMV27psakf.",
+      "id": 4
+    },
+    {
+      "email": "asd1@mail.ru",
+      "password": "$2a$10$9CnDLnMxKwy8L7ctTlruv.6nbT3.iWZ3/Ioqr9ULnXlDsKSPfHxA6",
+      "name": "Илья",
+      "surname": "Иванов",
+      "id": 5
+    },
+    {
+      "email": "1234444@mail.ru",
+      "password": "$2a$10$h2pJIArEfaKsOA6a1nJOkuxBCQZURgK/65q4xKqInEuFoX9CU.g12",
+      "name": "",
+      "surname": "",
+      "id": 6
+    },
+    {
+      "email": "iii@mail.ru",
+      "password": "$2a$10$yv6yDihZ9k6JX6SIKwAFHebqtIfowpFfPkUzJZWbDb5tT9z1swfcC",
+      "name": "Илья",
+      "surname": "Пономарев",
+      "id": 7
+    },
+    {
+      "email": "mmm@mail.ru",
+      "password": "$2a$10$2zU07mfgHNmXBq7f4K7E..Ipa6gjnoi0XjiaayNJj70Ij8WdQrycO",
+      "name": "Иван",
+      "surname": "Иванов",
+      "id": 8
+    },
+    {
+      "email": "jaja@mail.ru",
+      "password": "$2a$10$WdnWXrQve.Gc/HY0vNo3COHZyVBE04vtFiDnf5x6EnSnMDCHyjKHa",
+      "name": "Иван",
+      "surname": "Абрамов",
+      "id": 9
+    },
+    {
+      "email": "123123@mail.ru",
+      "password": "$2a$10$1S/2xq5InHe8aAAahXm4O.G3Mz0PuiTEPgKpQ0HpdITw/xRSJLMoa",
+      "name": "dfgdfg",
+      "surname": "123",
+      "id": 10
+    },
+    {
+      "email": "sdfsdfdssfd@mail.ru",
+      "password": "$2a$10$9ob7CgoaTE2/UQrpRVpx9.5X9jdo3SwVJhxKwA7Xb13AhbgSlv0Xq",
+      "name": "",
+      "surname": "",
+      "id": 11
+    },
+    {
+      "email": "ilya@mail.ru",
+      "password": "$2a$10$/II4Vjrf1aQk3jtY8Hvc7.vkz7Dnm/Nnl9vpFb2eS6y7ZbRByTVUq",
+      "name": "Илья",
+      "surname": "Ильич",
+      "id": 12
+    },
+    {
+      "email": "varvara@mail.ru",
+      "password": "$2a$10$cFklrB9Gxe/rxS5wHhfJNecPQUFBqMYi24VUZPcs8n26WfzqNw8Ti",
+      "name": "",
+      "surname": "",
+      "id": 13
+    },
+    {
+      "email": "varvar@mail.ru",
+      "password": "$2a$10$QbNmmhKW8.pjqL72xtDYwumX6t0EnIhWAjaCdMERST.j1Z0eQwYGS",
+      "name": "Варвара",
+      "surname": "Иванова",
+      "id": 14
+    },
+    {
+      "email": "12345@mail.ru",
+      "password": "$2a$10$K3w.qUvES3RTueDHlrfEN.vahawx9a0pCptbLmoixTTNIoBTWOEMO",
+      "name": "Алексей",
+      "surname": "Ягудин",
+      "id": 15
+    },
+    {
+      "email": "123456@mail.ru",
+      "password": "$2a$10$tiiIEZYvyu9.u2CpsLYIpeOyurmmDLstg7udsc.OsZhEXbGDSGE7a",
+      "name": "Диана",
+      "surname": "Котельникова",
+      "id": 16
+    },
+    {
+      "email": "oleg@mail.ru",
+      "password": "$2a$10$vJu/X8WGq4z4l7asZGGMvu6Mlt.T9c.piLrfM8bAzycG0Oe6Zq606",
+      "name": "Олег",
+      "surname": "Тинькофф",
+      "id": 17
+    },
+    {
+      "email": "mary@mail.ru",
+      "password": "$2a$10$28cVNYN.8OFpdf1u5smXIO3aHDJzX7bn/oQmWt0Etth3DiwCpPn1W",
+      "name": "Мария",
+      "surname": "Иванова",
+      "id": 18
+    },
+    {
+      "email": "ilyai@maill.ru",
+      "password": "$2a$10$YPX/ijQYHxXxQdwXpOKc.ecxuhdCDyjXX/HxZfhXgj17xQHs11kfe",
+      "name": "Иван",
+      "surname": "Иванов",
+      "id": 19
+    }
+  ]
+}

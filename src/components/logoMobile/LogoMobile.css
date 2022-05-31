@@ -1,0 +1,13 @@
+.logoMobile {
+    display: none;
+}
+
+@media (max-width: 700px) { 
+    .logoMobile {
+        display: flex;
+        max-width: 30px;
+        max-height: 30px;
+        margin-bottom: 35px;
+    
+    }
+}
